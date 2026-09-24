@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 2 problems · 0 labs · 3 math
+**6** solved · 2 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-18 | [solution](math/0001-derivatives-and-gradients) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-19 | [solution](math/0005-gradient-descent-updates) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-19 | [solution](math/0032-softmax-and-cross-entropy) |
+| [Truncated Backpropagation Through Time: Cost, Memory and What Is Lost](https://www.deep-ml.com/math-problems/161) | medium | 2026-09-24 | [solution](math/0161-truncated-backpropagation-through-time-cost-memory-and-what-is-lost) |
 
 ---
 

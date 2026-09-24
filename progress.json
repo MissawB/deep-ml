@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:18:29.636Z",
+  "generated_at": "2026-09-24T08:00:04.945Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -59,6 +59,17 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-09-19T13:18:28.728Z",
       "last_pushed_at": "2026-09-19T13:18:28.728Z"
+    },
+    "math:161": {
+      "kind": "math",
+      "id": "161",
+      "title": "Truncated Backpropagation Through Time: Cost, Memory and What Is Lost",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/161",
+      "path": "math/0161-truncated-backpropagation-through-time-cost-memory-and-what-is-lost",
+      "first_solved_at": "2026-09-24T08:00:03.586Z",
+      "last_pushed_at": "2026-09-24T08:00:03.586Z"
     }
   }
 }
