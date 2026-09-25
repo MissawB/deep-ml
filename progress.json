@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:33:15.881Z",
+  "generated_at": "2026-09-25T09:23:59.012Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -92,6 +92,17 @@
       "path": "math/0154-lora-parameter-and-compute-arithmetic",
       "first_solved_at": "2026-09-25T08:33:15.614Z",
       "last_pushed_at": "2026-09-25T08:33:15.614Z"
+    },
+    "math:159": {
+      "kind": "math",
+      "id": "159",
+      "title": "LSTM Parameter Count and Gate Arithmetic",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/159",
+      "path": "math/0159-lstm-parameter-count-and-gate-arithmetic",
+      "first_solved_at": "2026-09-25T09:23:58.451Z",
+      "last_pushed_at": "2026-09-25T09:23:58.451Z"
     }
   }
 }
