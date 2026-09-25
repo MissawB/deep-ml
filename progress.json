@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T09:55:25.429Z",
+  "generated_at": "2026-09-25T08:33:15.881Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -81,6 +81,17 @@
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-09-24T09:55:24.357Z",
       "last_pushed_at": "2026-09-24T09:55:24.357Z"
+    },
+    "math:154": {
+      "kind": "math",
+      "id": "154",
+      "title": "LoRA Parameter and Compute Arithmetic",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/154",
+      "path": "math/0154-lora-parameter-and-compute-arithmetic",
+      "first_solved_at": "2026-09-25T08:33:15.614Z",
+      "last_pushed_at": "2026-09-25T08:33:15.614Z"
     }
   }
 }
