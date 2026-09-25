@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T09:23:59.012Z",
+  "generated_at": "2026-09-25T10:49:28.821Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -103,6 +103,19 @@
       "path": "math/0159-lstm-parameter-count-and-gate-arithmetic",
       "first_solved_at": "2026-09-25T09:23:58.451Z",
       "last_pushed_at": "2026-09-25T09:23:58.451Z"
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-09-25T10:49:27.991Z",
+      "last_pushed_at": "2026-09-25T10:49:27.991Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
