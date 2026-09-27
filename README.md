@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 5 problems · 0 labs · 8 math
+**14** solved · 5 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-19 | [solution](math/0032-softmax-and-cross-entropy) |
 | [The Forget Gate and the Memory Horizon](https://www.deep-ml.com/math-problems/160) | medium | 2026-09-27 | [solution](math/0160-the-forget-gate-and-the-memory-horizon) |
 | [Truncated Backpropagation Through Time: Cost, Memory and What Is Lost](https://www.deep-ml.com/math-problems/161) | medium | 2026-09-24 | [solution](math/0161-truncated-backpropagation-through-time-cost-memory-and-what-is-lost) |
+| [Recurrent Networks, Weight Sharing and Vanishing Gradients](https://www.deep-ml.com/math-problems/117) | hard | 2026-09-27 | [solution](math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients) |
 
 ---
 
