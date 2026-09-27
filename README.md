@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 5 problems · 0 labs · 7 math
+**13** solved · 5 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LSTM Parameter Count and Gate Arithmetic](https://www.deep-ml.com/math-problems/159) | easy | 2026-09-25 | [solution](math/0159-lstm-parameter-count-and-gate-arithmetic) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-24 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-19 | [solution](math/0032-softmax-and-cross-entropy) |
+| [The Forget Gate and the Memory Horizon](https://www.deep-ml.com/math-problems/160) | medium | 2026-09-27 | [solution](math/0160-the-forget-gate-and-the-memory-horizon) |
 | [Truncated Backpropagation Through Time: Cost, Memory and What Is Lost](https://www.deep-ml.com/math-problems/161) | medium | 2026-09-24 | [solution](math/0161-truncated-backpropagation-through-time-cost-memory-and-what-is-lost) |
 
 ---
